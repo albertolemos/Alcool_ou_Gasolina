@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alcool ou Gasolina</string>
+    <string name="textoPrincipal">Saiba a melhor opção para abastecer seu carro.</string>
+    <string name="textPrecoAlcool">Preço do Alcool. Ex.: 1.90</string>
+    <string name="textPrecoGasolina">Preço da Gasolina. Ex.: 3.50</string>
+    <string name="btCalcular">CALCULAR</string>
+    <string name="textResultado">RESULTADO</string>
+    <string name="btZerar">ZERAR</string>
+</resources>
