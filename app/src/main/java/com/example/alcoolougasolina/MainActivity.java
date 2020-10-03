@@ -32,9 +32,9 @@ public class MainActivity extends AppCompatActivity {
         Double resultado = precoAlcool / precoGasolina;
 
         if (resultado >= 0.7){
-            Toast.makeText(this, "Melhor utilizar Gaolina", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Melhor abastecer com Gasolina", Toast.LENGTH_LONG).show();
         } else{
-            Toast.makeText(this, "Melhor utilizar Álcool", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Melhor abastecer com Álcool", Toast.LENGTH_LONG).show();
         }
     }
 
